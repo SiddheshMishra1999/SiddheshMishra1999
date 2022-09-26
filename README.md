@@ -7,7 +7,7 @@ Software Developer
 I am a motivated student completing a Computer Engineering degree. I am experienced in Agile and Scrum environments. I have experience in support team administration, project coordination, design, and programming needs. I am fluent in English and French. My projects include building apps, optimizing programs, and validating code. I am a well-organized and collaborative team player with strong communication and analytical skills.
 
 *   🌍  I'm based in Montreal, QC
-*   ✉️  You can contact me at [siddhesh\_mishra15@gmail.com](mailto:siddhesh_mishra15@gmail.com)
+*   ✉️  You can contact me at [siddhesh\_mishra15@hotmail.com](mailto:siddhesh_mishra15@hotmail.com)
 *   🧠  I'm learning Angular and React
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I am simple person who loves to work in team and have some fun!
