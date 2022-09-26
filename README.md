@@ -11,6 +11,7 @@ I am a motivated student completing a Computer Engineering degree. I am experien
 *   🧠  I'm learning Angular and React
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I am simple person who loves to work in team and have some fun!
+<br>
 <a href="https://www.github.com/SiddheshMishra1999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SiddheshMishra1999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
